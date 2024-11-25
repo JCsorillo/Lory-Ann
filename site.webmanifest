@@ -1,0 +1,16 @@
+{
+    "name": "Lory Ann Joy Española - NISU | CICS",
+    "short_name": "L.A.J. Española",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#1e30f3",
+    "icons": [
+      {
+        "src": "assets/favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "description": "Portfolio of Lory Ann Joy Española, a student at Northern Iloilo State University, College of Information and Computing Studies."
+  }
