@@ -1,5 +1,5 @@
 User -agent: googlebot
-Disallow: /private/
 Allow: /
+Disallow: /private/
 
 Sitemap: https://loryannjoyespañolanisucics.site/sitemap.xml
